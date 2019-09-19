@@ -1,0 +1,30 @@
+h1{
+  color: blue;
+  background-color: yellow;
+}
+
+body{
+  background-color: olive;
+} 
+
+li{
+  background-color: gainsboro;
+}
+
+li:nth-child(4){
+  background-color:magenta;
+ }
+
+#make-me-orange{
+  background-color:orange;
+}
+
+.MyClass {
+  background-color: red
+}
+
+img {
+  width: 100%
+  height: 
+}
+
